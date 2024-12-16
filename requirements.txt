@@ -1,0 +1,10 @@
+streamlit
+fastapi
+uvicorn
+sounddevice
+soundfile
+numpy
+pydub
+requests
+speech_recognition
+python-multipart
